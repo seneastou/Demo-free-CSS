@@ -378,6 +378,13 @@ h5{
     box-shadow: rgba(0, 0, 0, 0.16) 0px 2px 5px 0px;
 }
 
+.p-contact{
+    position: absolute;
+    top: 40px;
+    right: 30px;
+    
+}
+
 .btn5{
     border: none;
     display: inline-block;
